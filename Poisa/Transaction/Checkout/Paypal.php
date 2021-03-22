@@ -25,12 +25,12 @@ class Paypal
      * @return object PayPalHttpClient
      * 
      * @since   1.0.0
-     * @version 1.0.0
+     * @version 1.2.0
      * @author  Mahmudul Hasan Mithu
      */
     private static function paypal_client()
     {
-        $Paypal_App_Credential = json_decode(DB::table('Poisa_Setting')->where('meta_key', 'PayPal_Checkout_App_Credential')->value('meta_value'));
+        $Paypal_App_Credential = json_decode(DB::table('Poisa_Setting')->where('meta_key', 'Payment_Method__Paypal_Checkout__App_Credential')->value('meta_value'));
 
         $clientId     = getenv("CLIENT_ID")     ?: $Paypal_App_Credential->clientId;
         $clientSecret = getenv("CLIENT_SECRET") ?: $Paypal_App_Credential->clientSecret;
