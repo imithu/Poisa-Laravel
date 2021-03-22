@@ -1,3 +1,13 @@
+# [Version 1.3.0](https://github.com/imithu/Poisa-Laravel/releases/tag/v1.3.0) - UTC 2021-Mar-22 15:08:06
+## Fixed
+- withdraw\reject method
+- withdraw\accept method
+
+## Improved
+- withdraw\reject method
+- withdraw\request_manual method
+
+
 # [Version 1.2.0](https://github.com/imithu/Poisa-Laravel/releases/tag/v1.2.0) - UTC 2021-Mar-22 12:48:46
 ## Added
 - Payment Method
