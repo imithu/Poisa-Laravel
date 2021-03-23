@@ -1,3 +1,10 @@
+# [Version 1.4.0](https://github.com/imithu/Poisa-Laravel/releases/tag/v1.4.0) - UTC 2021-Mar-23 06:26:17
+## Improved
+- Setting ... withdraw\set method
+
+
+
+
 # [Version 1.3.0](https://github.com/imithu/Poisa-Laravel/releases/tag/v1.3.0) - UTC 2021-Mar-22 15:08:06
 ## Fixed
 - withdraw\reject method
