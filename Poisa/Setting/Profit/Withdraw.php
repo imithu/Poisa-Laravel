@@ -13,12 +13,13 @@ class Withdraw
    * @param float   $percent
    * 
    * @since   1.2.0
-   * @version 1.2.0
+   * @version 1.4.0
    * @author  Mahmudul Hasan Mithu
    */
   public static function set( float $percent )
   {
     date_default_timezone_set('UTC');
+    $percent = round($percent, 2);
 
 
     DB::table('Poisa_Setting')->updateOrInsert(
