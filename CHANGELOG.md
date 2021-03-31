@@ -1,3 +1,12 @@
+# [Version 1.5.0](https://github.com/imithu/Poisa-Laravel/releases/tag/v1.5.0) - UTC 2021-Mar-31 09:06:59
+## Improved
+- Paypal Checkout
+## Added
+- Topup_History
+
+
+
+
 # [Version 1.4.0](https://github.com/imithu/Poisa-Laravel/releases/tag/v1.4.0) - UTC 2021-Mar-23 06:26:17
 ## Improved
 - Setting ... withdraw\set method
