@@ -1,3 +1,13 @@
+# [Version 1.6.0](https://github.com/imithu/Poisa-Laravel/releases/tag/v1.6.0) - UTC 2021-Apr-02 08:56:06
+## Added
+- Buyer Livechat_Live
+- Seller Livechat_Live
+## Improved
+- Seller Subscription File
+
+
+
+
 # [Version 1.5.0](https://github.com/imithu/Poisa-Laravel/releases/tag/v1.5.0) - UTC 2021-Mar-31 09:06:59
 ## Improved
 - Paypal Checkout
